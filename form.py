@@ -4,7 +4,7 @@ import mysql.connector
 from tkinter import font
 from tkinter import ttk
 
-
+#Sample customer registration form
 def add_data():
     customer_id = customer_id_entry.get()
     f_name = f_name_entry.get()
